@@ -19,13 +19,13 @@ This project performs statement analysis on customer reviews using Python and Te
 
 ## Project Files
 - reviews.xlsx
-- sentiment_analysis.py
-- Sentiment_Result.xlsx
+- Statement_analysis.py
+- Statement_Result.xlsx
 - statement analysis.pdf
 - Output screenshots
 
 ## Output
-- Sentiment classification
+- Statement classification
 - Bar chart
 - Excel output
 
