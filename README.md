@@ -1,11 +1,11 @@
-# Sentiment Analysis Project
+# Statement Analysis Project
 
 ## Overview
-This project performs sentiment analysis on customer reviews using Python and TextBlob.
+This project performs statement analysis on customer reviews using Python and TextBlob.
 
 ## Objectives
 - Analyze customer reviews
-- Classify Positive, Negative, and Neutral sentiments
+- Classify Positive, Negative, and Neutral statement
 - Visualize sentiment distribution
 - Export results to Excel
 
